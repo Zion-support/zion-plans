@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# Zion Plans
 
-**zion-plans** is part of the Zion Tech Group app network (630+ apps).
+Zion plans and pricing site.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-portal](https://github.com/Zion-support/zion-portal)
+- Related: [plans](https://github.com/Zion-support/plans) · [zion-discovery](https://github.com/Zion-support/zion-discovery) · [zion-network](https://github.com/Zion-support/zion-network) · [zion-ai-roi-calculator](https://github.com/Zion-support/zion-ai-roi-calculator)
 
-## Related apps
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-- [zion-portal](https://github.com/Zion-support/zion-portal) — client workspace
-- [zion-status](https://github.com/Zion-support/zion-status) — fleet & site status
-- [zion-tools](https://github.com/Zion-support/zion-tools) — ROI/FinOps/SLA calculators
-- [plans](https://github.com/Zion-support/plans) — plans & pricing page
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
